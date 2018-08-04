@@ -4,15 +4,25 @@ html {
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(45deg,#F03434 0,#34495E 100%);
+    background: linear-gradient(45deg,#F03434 0,#F7CA18 100%);
     color: rgb(236, 240, 241);
 }
 
 p {
     font-family: 'Merriweather', serif;
+    text-align: left;
+    vertical-align: text-top;
 }
 
 a {
     color: rgb(236, 240, 241);
+}
+
+.cover-heading {
+    margin-bottom: 1rem;
+}
+
+#landing-image {
+    margin-left: 1rem;
 }
 
