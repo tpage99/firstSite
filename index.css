@@ -1,9 +1,18 @@
+html {
+    height: 100%;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(45deg,#F03434 0,#34495E 100%);
+    color: rgb(236, 240, 241);
 }
 
 p {
-
     font-family: 'Merriweather', serif;
+}
+
+a {
+    color: rgb(236, 240, 241);
 }
 
