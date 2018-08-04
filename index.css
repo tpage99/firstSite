@@ -3,13 +3,11 @@ html {
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(45deg,#F03434 0,#F7CA18 100%);
+    background: #343a40;
     color: rgb(236, 240, 241);
 }
 
 p {
-    font-family: 'Merriweather', serif;
     text-align: left;
     vertical-align: text-top;
 }
