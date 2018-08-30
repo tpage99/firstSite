@@ -38,7 +38,12 @@
         <h1 class="mx-auto pt-5" style="width: 200px;">say hello.</h1>
         <h5 class="font-weight-light px-4 pt-4">If it sounds like we could be a good fit for what you or your business are needing, please fill out the form below so we can reach out to you.</h5>
       </main>
-        <form class="p-4"> 
+        <form class="px-4" name="contact" method="POST" netlify-honeypot="bot-field" netlify>
+            <div class="form-row invisible">
+                <label>Don’t fill this out if you're human:
+                    <input name="bot-field">
+                </label>
+            </div>
             <div class="form-row">
               <div class="form-group col-lg-6">
                 <label for="inputName4">Name</label>
