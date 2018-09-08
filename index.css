@@ -28,3 +28,16 @@ a {
     text-decoration: underline;
 }
 
+.card {
+    box-shadow: 5px 5px 20px white;
+    margin: 1.5em;
+}
+
+.grow:hover {
+    box-shadow: 0px 0px 150px #000000;
+    z-index: 4;
+    transition: all 600ms ease-in-out;
+    transform: scale(1.1);
+}
+
+
