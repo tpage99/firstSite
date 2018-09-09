@@ -32,7 +32,7 @@ a {
 .card {
     background-image: url("assets/funky-lines.png");
     box-shadow: 5px 5px 20px #3e8edd;
-    margin: 1.5em;
+    margin: .75em;
 }
 
 .card-title2 {
