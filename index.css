@@ -8,6 +8,10 @@ body {
     color: rgb(236, 240, 241);
 }
 
+.navbar {
+    background-image: url("assets/grey_wash_wall.png");
+  }
+
 p {
     text-align: left;
     vertical-align: text-top;
