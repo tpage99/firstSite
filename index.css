@@ -3,7 +3,8 @@ html {
 }
 
 body {
-    background: #343a40;
+    background-color: #343a40;
+    background-image: url("assets/connectwork.png");
     color: rgb(236, 240, 241);
 }
 
@@ -29,8 +30,17 @@ a {
 }
 
 .card {
-    box-shadow: 5px 5px 20px white;
+    background-image: url("assets/funky-lines.png");
+    box-shadow: 5px 5px 20px #3e8edd;
     margin: 1.5em;
+}
+
+.card-title2 {
+    color: #343a40;
+}
+
+.card-text2 {
+    color: #343a40;
 }
 
 .grow:hover {
