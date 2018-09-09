@@ -48,3 +48,9 @@ a {
     transition: all 600ms ease-in-out;
     transform: scale(1.1);
 }
+
+#submit-help {
+    color: rgb(236, 240, 241);
+    font-size: smaller;
+    font-style: italic;
+}
