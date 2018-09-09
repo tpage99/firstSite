@@ -35,11 +35,7 @@ a {
 
 .card {
     background-image: url("assets/funky-lines.png");
-    margin: .75em;
-}
-
-#top1 {
-    margin-top: 2em;
+    margin-bottom: 1em;
 }
 
 .grow:hover {
@@ -53,4 +49,8 @@ a {
     color: rgb(236, 240, 241);
     font-size: smaller;
     font-style: italic;
+}
+
+.mastfoot {
+    margin-bottom: 2em;
 }
