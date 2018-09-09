@@ -45,7 +45,7 @@ a {
     transform: scale(1.1);
 }
 
-#submit-help {
+.help-text {
     color: rgb(236, 240, 241);
     font-size: smaller;
     font-style: italic;
